@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ahmetdyb21
+- 👋 Hi, I’m Ahmet
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning Linux, Bash
 - 💞️ I’m looking to collaborate on 
